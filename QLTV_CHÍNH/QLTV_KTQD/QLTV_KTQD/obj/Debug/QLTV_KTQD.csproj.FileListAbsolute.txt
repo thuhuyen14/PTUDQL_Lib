@@ -1,0 +1,46 @@
+F:\ĐẠI HỌC\Kỳ 5\PT Các ứng dụng trong quản lý\DEMO\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\bin\Debug\QLTV_KTQD.exe.config
+F:\ĐẠI HỌC\Kỳ 5\PT Các ứng dụng trong quản lý\DEMO\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\bin\Debug\QLTV_KTQD.exe
+F:\ĐẠI HỌC\Kỳ 5\PT Các ứng dụng trong quản lý\DEMO\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\bin\Debug\QLTV_KTQD.pdb
+F:\ĐẠI HỌC\Kỳ 5\PT Các ứng dụng trong quản lý\DEMO\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\QLTV_KTQD.csproj.AssemblyReference.cache
+F:\ĐẠI HỌC\Kỳ 5\PT Các ứng dụng trong quản lý\DEMO\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\QLTV_KTQD.flogin.resources
+F:\ĐẠI HỌC\Kỳ 5\PT Các ứng dụng trong quản lý\DEMO\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\QLTV_KTQD.Properties.Resources.resources
+F:\ĐẠI HỌC\Kỳ 5\PT Các ứng dụng trong quản lý\DEMO\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\QLTV_KTQD.Đổi_mật_khẩu.resources
+F:\ĐẠI HỌC\Kỳ 5\PT Các ứng dụng trong quản lý\DEMO\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\QLTV_KTQD.csproj.GenerateResource.cache
+F:\ĐẠI HỌC\Kỳ 5\PT Các ứng dụng trong quản lý\DEMO\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\QLTV_KTQD.csproj.CoreCompileInputs.cache
+F:\ĐẠI HỌC\Kỳ 5\PT Các ứng dụng trong quản lý\DEMO\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\QLTV_KTQD.exe
+F:\ĐẠI HỌC\Kỳ 5\PT Các ứng dụng trong quản lý\DEMO\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\QLTV_KTQD.pdb
+F:\ĐẠI HỌC\Kỳ 5\PT Các ứng dụng trong quản lý\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\bin\Debug\QLTV_KTQD.exe.config
+F:\ĐẠI HỌC\Kỳ 5\PT Các ứng dụng trong quản lý\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\bin\Debug\QLTV_KTQD.exe
+F:\ĐẠI HỌC\Kỳ 5\PT Các ứng dụng trong quản lý\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\bin\Debug\QLTV_KTQD.pdb
+F:\ĐẠI HỌC\Kỳ 5\PT Các ứng dụng trong quản lý\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\QLTV_KTQD.csproj.AssemblyReference.cache
+F:\ĐẠI HỌC\Kỳ 5\PT Các ứng dụng trong quản lý\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\QLTV_KTQD.Main.resources
+F:\ĐẠI HỌC\Kỳ 5\PT Các ứng dụng trong quản lý\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\QLTV_KTQD.Properties.Resources.resources
+F:\ĐẠI HỌC\Kỳ 5\PT Các ứng dụng trong quản lý\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\QLTV_KTQD.csproj.GenerateResource.cache
+F:\ĐẠI HỌC\Kỳ 5\PT Các ứng dụng trong quản lý\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\QLTV_KTQD.csproj.CoreCompileInputs.cache
+F:\ĐẠI HỌC\Kỳ 5\PT Các ứng dụng trong quản lý\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\QLTV_KTQD.exe
+F:\ĐẠI HỌC\Kỳ 5\PT Các ứng dụng trong quản lý\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\QLTV_KTQD.pdb
+F:\ĐẠI HỌC\Kỳ 5\PT Các ứng dụng trong quản lý\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\bin\Debug\FontAwesome.Sharp.dll
+F:\ĐẠI HỌC\Kỳ 5\PT Các ứng dụng trong quản lý\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\QLTV_KTQD.csproj.CopyComplete
+F:\ĐẠI HỌC\Kỳ 5\PT Các ứng dụng trong quản lý\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\QLTV_KTQD.frmmain2.resources
+F:\ĐẠI HỌC\Kỳ 5\PT Các ứng dụng trong quản lý\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\QLTV_KTQD.frmtaikhoan.resources
+F:\ĐẠI HỌC\Kỳ 5\PT Các ứng dụng trong quản lý\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\QLTV_KTQD.frmdoimatkhau.resources
+F:\ĐẠI HỌC\Kỳ 5\PT Các ứng dụng trong quản lý\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\QLTV_KTQD.frmlogin.resources
+F:\ĐẠI HỌC\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\bin\Debug\QLTV_KTQD.exe.config
+F:\ĐẠI HỌC\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\bin\Debug\QLTV_KTQD.exe
+F:\ĐẠI HỌC\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\bin\Debug\QLTV_KTQD.pdb
+F:\ĐẠI HỌC\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\bin\Debug\FontAwesome.Sharp.dll
+F:\ĐẠI HỌC\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\QLTV_KTQD.csproj.AssemblyReference.cache
+F:\ĐẠI HỌC\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\HellloWorld.frmDocgia.resources
+F:\ĐẠI HỌC\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\QLTV_KTQD.frmdoimatkhau.resources
+F:\ĐẠI HỌC\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\QLTV_KTQD.frmlogin.resources
+F:\ĐẠI HỌC\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\QLTV_KTQD.frmmain2.resources
+F:\ĐẠI HỌC\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\HellloWorld.frmPM.resources
+F:\ĐẠI HỌC\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\QLTV_KTQD.frmSach.resources
+F:\ĐẠI HỌC\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\QLTV_KTQD.frmtaikhoan.resources
+F:\ĐẠI HỌC\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\HellloWorld.frmthongke.resources
+F:\ĐẠI HỌC\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\QLTV_KTQD.Properties.Resources.resources
+F:\ĐẠI HỌC\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\QLTV_KTQD.csproj.GenerateResource.cache
+F:\ĐẠI HỌC\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\QLTV_KTQD.csproj.CoreCompileInputs.cache
+F:\ĐẠI HỌC\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\QLTV_KTQD.csproj.CopyComplete
+F:\ĐẠI HỌC\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\QLTV_KTQD.exe
+F:\ĐẠI HỌC\PTUD_QLTV\QLTV_CHÍNH\QLTV_KTQD\QLTV_KTQD\obj\Debug\QLTV_KTQD.pdb

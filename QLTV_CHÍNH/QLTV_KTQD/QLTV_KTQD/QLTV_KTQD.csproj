@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6992A471-85E7-4E32-AC7B-E7D840EA363E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QLTV_KTQD</RootNamespace>
+    <AssemblyName>QLTV_KTQD</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FontAwesome.Sharp, Version=6.6.0.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.6.6.0\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DAO\AccountDAO.cs" />
+    <Compile Include="DAO\DataProvider.cs" />
+    <Compile Include="DAO\DausachDAO.cs" />
+    <Compile Include="DAO\docgiaDAO.cs" />
+    <Compile Include="DAO\PhieuMuonDAO.cs" />
+    <Compile Include="DAO\PhieuPhatDAO.cs" />
+    <Compile Include="DAO\SachDAO.cs" />
+    <Compile Include="DTO\DausachDTO.cs" />
+    <Compile Include="DTO\DocgiaDTO.cs" />
+    <Compile Include="DTO\PhieuMuonDTO.cs" />
+    <Compile Include="DTO\PhieuPhatDTO.cs" />
+    <Compile Include="DTO\SachDTO.cs" />
+    <Compile Include="frmDocgia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDocgia.Designer.cs">
+      <DependentUpon>frmDocgia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmdoimatkhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmdoimatkhau.Designer.cs">
+      <DependentUpon>frmdoimatkhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlogin.Designer.cs">
+      <DependentUpon>frmlogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmmain2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmmain2.Designer.cs">
+      <DependentUpon>frmmain2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPM.Designer.cs">
+      <DependentUpon>frmPM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSach.Designer.cs">
+      <DependentUpon>frmSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmtaikhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmtaikhoan.Designer.cs">
+      <DependentUpon>frmtaikhoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmthongke.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmthongke.Designer.cs">
+      <DependentUpon>frmthongke.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QLTV_PTUDDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLTV_PTUDDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLTV_PTUDDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLTV_PTUDDataSet1.xsd</DependentUpon>
+    </Compile>
+    <None Include="QLTV_PTUDDataSet.xsc">
+      <DependentUpon>QLTV_PTUDDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QLTV_PTUDDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLTV_PTUDDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLTV_PTUDDataSet.xss">
+      <DependentUpon>QLTV_PTUDDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QLTV_PTUDDataSet1.xsc">
+      <DependentUpon>QLTV_PTUDDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="QLTV_PTUDDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLTV_PTUDDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLTV_PTUDDataSet1.xss">
+      <DependentUpon>QLTV_PTUDDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\ẢNH BIỂN.jpg" />
+    <EmbeddedResource Include="frmDocgia.resx">
+      <DependentUpon>frmDocgia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmdoimatkhau.resx">
+      <DependentUpon>frmdoimatkhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmlogin.resx">
+      <DependentUpon>frmlogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmmain2.resx">
+      <DependentUpon>frmmain2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPM.resx">
+      <DependentUpon>frmPM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSach.resx">
+      <DependentUpon>frmSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmtaikhoan.resx">
+      <DependentUpon>frmtaikhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmthongke.resx">
+      <DependentUpon>frmthongke.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Content Include="Content\fonts\fontawesome-webfont.svg" />
+    <Content Include="fonts\fontawesome-webfont.eot" />
+    <Content Include="fonts\fontawesome-webfont.ttf" />
+    <Content Include="fonts\fontawesome-webfont.woff" />
+    <Content Include="fonts\fontawesome-webfont.woff2" />
+    <Content Include="fonts\FontAwesome.otf" />
+    <None Include="Content\fontawesome\animated.less" />
+    <None Include="Content\fontawesome\bordered-pulled.less" />
+    <None Include="Content\fontawesome\core.less" />
+    <None Include="Content\fontawesome\fixed-width.less" />
+    <None Include="Content\fontawesome\font-awesome.less" />
+    <None Include="Content\fontawesome\icons.less" />
+    <None Include="Content\fontawesome\larger.less" />
+    <None Include="Content\fontawesome\list.less" />
+    <None Include="Content\fontawesome\mixins.less" />
+    <None Include="Content\fontawesome\path.less" />
+    <None Include="Content\fontawesome\rotated-flipped.less" />
+    <None Include="Content\fontawesome\screen-reader.less" />
+    <None Include="Content\fontawesome\stacked.less" />
+    <None Include="Content\fontawesome\variables.less" />
+    <None Include="Content\fonts\fontawesome-webfont.eot" />
+    <None Include="Content\fonts\fontawesome-webfont.ttf" />
+    <None Include="Content\fonts\fontawesome-webfont.woff" />
+    <None Include="Content\fonts\fontawesome-webfont.woff2" />
+    <None Include="Content\fonts\FontAwesome.otf" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Thư viện bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Thư viện bg1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\font-awesome.css" />
+    <Content Include="Content\font-awesome.min.css" />
+    <Content Include="fonts\fontawesome-webfont.svg" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
